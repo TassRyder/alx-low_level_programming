@@ -21,7 +21,7 @@ int main(void)
 	if (low != e && low != q)
 	putcher(low);
 	}
-	putcher('\n');
+	putchar('\n');
 	return (0);
 
 }
