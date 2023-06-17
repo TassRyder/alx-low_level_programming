@@ -1,7 +1,9 @@
 #include <stdio.h>
 /**
  * main - A program that prints  the aize of various computer types
- * Return  (success)
+ *
+ * Return: Always 0 (success)
+ *
  */
 int main(void)
 {
