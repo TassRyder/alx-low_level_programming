@@ -28,6 +28,6 @@ int main(void)
 	}
 	}
 	}
-	putchara('\n')
+	putchar('\n')
 	return (0)
 }
