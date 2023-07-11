@@ -1,5 +1,5 @@
-#include "main.h"
 #include <stdio.h>
+#include "main.h"
 
 /**
  * main - Prints all the args content
@@ -8,8 +8,7 @@
  *
  * Return: Always zero
  */
-
-int main (int argc, char *argv[])
+int main(int argc, char *argv[])
 {
 	int i;
 
